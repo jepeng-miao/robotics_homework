@@ -1,0 +1,8 @@
+prefix=/home/jepeng/catkin_ws/devel
+
+Name: turtle_homework
+Description: Description of turtle_homework
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
